@@ -26,7 +26,7 @@ I'm currently a Bachelors in Electronics Engineering, my passion is to design op
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/Eloquencere" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/Eloquencer" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/Eloquencere" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/20164314/eloquencer" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
 
 Shoutout to my fellow collaborators
 [spacebiz24](https://github.com/spacebiz24), [Tejas-M-Nayak](https://github.com/Tejas-M-Nayak), [L-o-n-e-W-o-l-f](https://github.com/L-o-n-e-W-o-l-f)
