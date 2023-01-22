@@ -4,7 +4,7 @@ Hi !👋 My name is Srirangarajan
 Hardware, Embedded Designer
 ------------------------------------
 
-I'm currently a Bachelors in Electronics Engineering, my passion is to design optimised hardware for a specific purpose
+I'm currently doing my Bachelors in Electronics Engineering, my passion is to design optimised hardware for a specific purpose
 
 * 🧠  I'm learning SystemVerilog and Rust and Kotlin
 
