@@ -1,7 +1,7 @@
 Hi !👋 My name is Srirangarajan
 =====================================================================================================================================
 
-Hardware Engineer, Embedded Designer
+Hardware, Embedded Designer
 ------------------------------------
 
 I'm currently a Bachelors in Electronics Engineering, my passion is to design optimised hardware for a specific purpose
