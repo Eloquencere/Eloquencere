@@ -6,7 +6,6 @@ Hardware Engineer, Embedded Designer
 
 I'm currently a Bachelors in Electronics Engineering, my passion is to design optimised hardware for a specific purpose
 
-* 🌍  I'm based in Bangalore
 * 🧠  I'm learning SystemVerilog and Rust and Kotlin
 
 ### Skills
