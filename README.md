@@ -26,7 +26,7 @@ I'm currently doing my Bachelors in Electronics Engineering, my passion is to de
 
 <p align="left"> <a href="https://www.github.com/Eloquencere" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/20164314/eloquencer" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/srirangarajan-t-m/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-<b> Collaborations</b>
+<b> Collaborations</b> https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_vscode.svg
 <div style="background-color:rgba(23, 21, 21, 1); text-align:center; vertical-align: middle; padding:40px 0;">
 <a href="https://github.com/stars/Eloquencere/lists/collaborated-repositories">Collaborated Repositories</a>
 </div>
