@@ -28,7 +28,3 @@ I'm currently doing my Bachelors in Electronics Engineering, my passion is to de
 
 Shoutout to my fellow collaborators
 [spacebiz24](https://github.com/spacebiz24), [Tejas-M-Nayak](https://github.com/Tejas-M-Nayak), [L-o-n-e-W-o-l-f](https://github.com/L-o-n-e-W-o-l-f)
-
-<b>Collaborated Repositories</b>
-<div width="75%" align="center"><a href="https://github.com/spacebiz24/Booth-Multiplier-Microwind" align="left"><img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=spacebiz24&repo=Booth-Multiplier-Microwind&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=181824&hide_border=true&locale=en" /></a><a href="https://github.com/spacebiz24/Verilog-Stuff" align="right"><img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=spacebiz24&repo=Verilog-Stuff&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=181824&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-<div width="75%" align="center"><a href="https://github.com/spacebiz24/Verilog-Projects" align="left"><img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=spacebiz24&repo=Verilog-Projects&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=181824&hide_border=true&locale=en" /></a></div>
