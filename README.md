@@ -28,5 +28,3 @@ I'm currently doing my Bachelors in Electronics Engineering, my passion is to de
 
 Shoutout to my fellow collaborators
 [spacebiz24](https://github.com/spacebiz24), [Tejas-M-Nayak](https://github.com/Tejas-M-Nayak), [L-o-n-e-W-o-l-f](https://github.com/L-o-n-e-W-o-l-f)
-
-https://github.com/stars/Eloquencere/lists/collaborated-repositories
