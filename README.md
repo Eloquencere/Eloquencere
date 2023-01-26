@@ -6,7 +6,7 @@ Hardware, Embedded Designer
 
 I'm currently doing my Bachelors in Electronics Engineering, my passion is to design optimised hardware for a specific purpose
 
-* 🧠  I'm learning SystemVerilog and Kotlin
+* 🧠  I'm learning SystemVerilog and Dart
 
 ### Skills
 
