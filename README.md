@@ -4,9 +4,9 @@ Hi !👋 My name is Sriranga
 Hardware, Embedded Designer
 ------------------------------------
 
-I'm currently doing my Bachelors in Electronics Engineering, my passion is to design optimised hardware for a specific purpose
+My passion is to design optimised hardware for a specific purpose.
 
-* 🧠  I'm learning SystemVerilog and Dart
+* 🧠  I'm learning SystemVerilog and System Design
 
 ### Skills
 
